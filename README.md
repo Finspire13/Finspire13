@@ -1,5 +1,5 @@
-### Hi there 👋 This is [my resume](https://finspire13.github.io/resume_en.pdf).
-
+<!-- ### Hi there 👋 This is [my resume](https://finspire13.github.io/resume_en.pdf).
+ -->
 <!--
 **Finspire13/Finspire13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
